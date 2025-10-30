@@ -14,7 +14,7 @@ class _HomeScreen extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
     Text('안녕하세요');
-    
+    floatingActionbutton: 
     )
   }
 }
