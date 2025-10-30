@@ -1,1 +1,6 @@
-import 'package:myapp/'
+import 'package:myapp/home_screen.dart';
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp()
+}
