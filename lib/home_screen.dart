@@ -13,6 +13,7 @@ class _HomeScreen extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+    Text('안녕하세요');
     )
   }
 }
